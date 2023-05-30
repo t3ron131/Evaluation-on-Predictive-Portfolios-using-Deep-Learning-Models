@@ -1,4 +1,6 @@
 # Evaluation on Predictive Portfolios using Deep Learning Models
+*The Final Project of HKUST ELEC3180 - Data-Driven Portfolio Optimization*
+
 This project explores the application of deep learning models in predicting stock prices and constructing optimized investment portfolios. The project's goal is to analyze whether the use of deep learning models can improve portfolio performance compared to traditional portfolio optimization techniques.
 
 ## 1. Introduction
