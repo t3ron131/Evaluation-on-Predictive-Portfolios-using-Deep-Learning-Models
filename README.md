@@ -44,3 +44,37 @@ The project concluded that deep learning models did not significantly improve po
 - Advanced feature engineering techniques like rolling averages, time-based aggregations, and technical indicators
 - Experimenting with advanced deep learning model designs, such as ensemble learning, different architectures, or attention mechanisms
 - Incorporating macroeconomic indicators, such as inflation rates, GDP growth, and market sentiment, to better understand the underlying trends and factors that influence stock prices
+
+## Notebook Outline
+1. Import Libraries and Packages
+2. Data Collection and Preprocessing
+    1. Data Collection
+    2. Data Visualization
+3. Traditional Portfolios
+    1. Sharpe Ratio and Relative Risk Contribution
+    2. Heuristic Portfolios
+    3. Markowitz's Portfolio Theory
+    4. Risk-Based Portfolios
+    5. Portfolios Visualization
+4. Backtesting and evaluation
+    1. Evaluation Metrics
+    2. Backtesting Visualization
+5. Deep Learning Models
+    1. Data Preprocessing for Deep Learning
+    2. Training Framework
+    3. Predictive Portfolios
+    4. Gated Recurrent Unit (GRU)
+        1. Training
+        2. Backtesting
+    5. Long Short-Term Memory (LSTM)
+        1. Training
+        2. Backtesting
+    6. Transformer
+        1. Training
+        2. Backtesting
+6. Experiment
+    1. Functions for Convinience
+    2. Playground
+
+## Reference
+Palomar, D. P. (2023). Lecture Notes on Data-Driven Portfolio Optimization (ELEC3180). Hong Kong University of Science and Technology.
