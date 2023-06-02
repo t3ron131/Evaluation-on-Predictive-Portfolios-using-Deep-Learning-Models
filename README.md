@@ -77,4 +77,4 @@ The project concluded that deep learning models did not significantly improve po
     2. Playground
 
 ## Reference
-Palomar, D. P. (2023). Lecture Notes on Data-Driven Portfolio Optimization (ELEC3180). Hong Kong University of Science and Technology.
+Palomar, D. P. (2023). Lecture Notes on Data-Driven Portfolio Optimization (ELEC3180). The Hong Kong University of Science and Technology.
