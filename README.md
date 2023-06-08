@@ -37,7 +37,7 @@ The hypothesis of the project is that deep learning models are effective in pred
 - Visualized the average results using only the models with MAE ≤ 150 to understand the impact of deep learning models on portfolio performance
 
 ## 7. Conclusion
-Despite the project's conclusions that deep learning models did not markedly outperform traditional models in portfolio performance enhancement, it's important to highlight that these results largely stemmed from limitations in the predictive capabilities, rather than inherent shortcomings of deep learning itself. Within the complex and sparse framework of financial data, the deployed models were not fully optimized to leverage the deep learning potential. However, the belief remains strong that superior quality predictions can indeed provide a significant boost to portfolio performance. The project furnished valuable insights into deep learning's application in finance, showing a promising path for future improvements using advanced techniques like sophisticated data cleaning, advanced feature engineering, and incorporation of macroeconomic indicators.
+The project showed that deep learning models did not notably surpass traditional models in portfolio performance due to predictive limitations, not an intrinsic flaw in deep learning. These models were not yet optimized to handle complex financial data. Nevertheless, it is believed that improved prediction quality can significantly boost portfolio performance. Future advancements may include better data cleaning, feature engineering, and the use of macroeconomic indicators.
 
 ## 8. Potential Improvements
 - Enhanced data cleaning to reduce noises, such as de-trending, seasonality decomposition, or Principal Component Analysis (PCA)
